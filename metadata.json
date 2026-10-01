@@ -1,0 +1,6 @@
+{
+  "name": "AegisSOC - AI Cybersecurity SOC Investigation Agent",
+  "description": "An AI-powered multi-agent SOC investigation platform that correlates authentication, network, endpoint, and change history logs to produce evidence-based root cause analysis with confidence scoring, contradiction detection, and human-in-the-loop response approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
